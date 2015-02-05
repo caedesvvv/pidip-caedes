@@ -1,0 +1,13 @@
+Source: pidip-caedes
+Section: graphics
+Priority: extra
+Maintainer: Pablo Martin <caedes@sindominio.net>
+Build-Depends: pd-pdp-caedes, puredata, debhelper (>> 6.0.0), libimlib2-dev, libaa1-dev, libmagickcore-dev, libquicktime-dev, libgsl0-dev, libtheora-dev, libvorbis-dev, libdv4-dev, linux-libc-dev
+Standards-Version: 3.8.3
+
+Package: pd-pidip-caedes
+Architecture: any
+Depends: pd-pdp-caedes (>> 0.12.5), ${shlibs:Depends}, ${misc:Depends}
+Description: Additional video objects for pdp
+ Additional video objects for Pure Data Packet
+ some of them are adapted from EffecTV.

@@ -1,0 +1,84 @@
+pidip-caedes (0.12.23-2build2~precise) precise; urgency=low
+
+  * Compiling for precise and apply some workarounds
+
+ -- Pablo Martin (caedes) <caedes@sindominio.net>  Thu, 20 Sep 2012 00:07:42 +0200
+
+pidip-caedes (0.12.23-2build1) maverick; urgency=low
+
+  * compiling for maverick
+
+ -- invi_ <ogen@invi.es>  Fri, 21 Jan 2011 04:16:38 +0100
+
+pidip-caedes (0.12.23-2) karmic; urgency=low
+
+  * Fix missing parts from configure
+
+ -- Pablo Martin (caedes) <caedes@sindominio.net>  Sun, 09 May 2010 00:07:42 +0200
+
+pidip-caedes (0.12.23-1) karmic; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martin (caedes) <caedes@sindominio.net>  Sat, 01 May 2010 18:54:24 +0200
+
+pidip-caedes (0.12.20-7ubuntu1) karmic; urgency=low
+
+  * Fix pd-pdp build depends (should be pd-pdp-caedes)
+
+ -- Pablo Martin (caedes) <caedes@sindominio.net>  Fri, 02 Apr 2010 04:25:05 +0200
+
+pidip-caedes (0.12.20-6) karmic; urgency=low
+
+  * Preparing for upload to ppa
+
+ -- Pablo Martin (caedes) <caedes@doodo.org>  Tue, 03 Nov 2009 09:59:12 +0100
+
+pidip-caedes (0.12.20-5ubuntu1) jaunty; urgency=low
+
+  * Fixes for 64 bit
+
+ -- Pablo Martin <caedes@sindominio.net>  Thu, 29 Oct 2009 00:44:20 +0100
+
+pidip-caedes (0.12.20-5) unstable; urgency=low
+
+  * New Upstream Version
+
+ --  <caedes@sindominio.net>  Mon,  1 Jan 2007 16:44:02 +0000
+
+pidip-caedes (0.12.20-4) unstable; urgency=low
+
+  * New Upstream Version
+
+ --  <caedes@sindominio.net>  Thu,  7 Dec 2006 05:57:05 +0000
+
+pidip-caedes (0.12.20-3) unstable; urgency=low
+
+  * New Upstream Version
+
+ -- Pablo Martin <caedes@sindominio.net>  Tue, 24 Jan 2006 18:51:54 +0100
+
+pidip-caedes (0.12.20-2) unstable; urgency=low
+
+  * New Upstream Version
+
+ -- Pablo Martin <caedes@sindominio.net>  Sun,  8 Jan 2006 20:39:42 +0100
+
+pidip-caedes (0.12.20-1) unstable; urgency=low
+
+  * New upstream version
+
+ -- Pablo Martin <caedes@sindominio.net>  Sun, 25 Dec 2005 19:11:22 +0100
+
+pidip-caedes (0.12.18-2) unstable; urgency=low
+
+  * New Upstream Version
+
+ -- Pablo Martin <caedes@walker>  Sat, 23 Jul 2005 05:45:31 +0200
+
+pidip-caedes (0.12.18-1) unstable; urgency=low
+
+  * New Upstream Version
+
+ -- Pablo Martin <caedes@sindominio.net>  Wed, 12 Jan 2005 15:38:15 +0100
+
